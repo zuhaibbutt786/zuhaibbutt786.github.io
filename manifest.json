@@ -2,7 +2,7 @@
   "name": "My PWA Website",
   "short_name": "PWA Website",
   "description": "A simple example of a Progressive Web App",
-  "start_url": "/",
+  "start_url": "https://zuhaibbutt786.github.io/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3367D6",
